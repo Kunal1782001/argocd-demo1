@@ -20,7 +20,7 @@ spec:
       containers:
       - name: argocd-demo1
 
-        image: bhadekunal/argocd-demo1:4
+        image: bhadekunal/argocd-demo1:5
 
 
         imagePullPolicy: Always
